@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sandeep vaid</h1>
-<h3 align="center">A passionate MERN and python developer always ready to learn and explore more!!</h3>
+<h3 align="center">A passionate MERN,MEAN,JAVA and python developer always ready to learn and explore more!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepvaid&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepvaid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepvaid" alt="sandeepvaid" /></a> </p>
 
-- 🔭 I’m currently working on [Chatter](https://github.com/sandeepvaid/Chatter.git)
 
-- 🌱 I’m currently learning **MongoDb , Reactjs ,JS , nodejs , expressjs , Django**
+- 🌱 I’m currently learning **Blockchain , Java , react , Angular , nextjs , Typescript , JS , nodejs , expressjs , Django**
 
-- 🤝 I’m looking for help with [Chatter](https://github.com/sandeepvaid/Chatter.git)
+- 🤝 I’m looking for people with mindset to build great things.
 
 - 👨‍💻 All of my projects are available at [https://github.com/sandeepvaid?tab=repositories](https://github.com/sandeepvaid?tab=repositories)
 
-- 💬 Ask me about **Python , Data structures , ALgorithm , MERN**
+- 💬 Ask me about **Python , Data structures , ALgorithm , MERN, MEAN**
 
 - 📫 How to reach me **vaid77167@gmail.com**
 
