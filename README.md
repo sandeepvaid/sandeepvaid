@@ -16,8 +16,7 @@
 
 - 📫 How to reach me **vaid77167@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pugbS8lvp78wi3J-kfe4faPw4JkDOSWa/view?usp=sharing](https://drive.google.com/file/d/1pugbS8lvp78wi3J-kfe4faPw4JkDOSWa/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WmiNQYHq92MPOUwuMHLokvEKufqCmVrf/view?usp=sharing)
 - ⚡ Fun fact **Always think for something great to be happen**
 
 <h3 align="left">Connect with me:</h3>
